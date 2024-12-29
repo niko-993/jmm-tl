@@ -1,5 +1,5 @@
 {
-	"BB": "1.0.0",
-	"CV": "1.0.0",
-	"VG": "1.0.0"
+  "battleships": 1,
+  "carriers": 1,
+  "vanguards": 1
 }
